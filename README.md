@@ -1,6 +1,6 @@
 # ovh-dynhost-updater
 
-It is a simple script to update OVH DynHost public ip for your machine.
+It is a simple script to update OVH DynHost public ip of your machine.
 Just add it as a cron job or systemd service.
 
 Usage:
