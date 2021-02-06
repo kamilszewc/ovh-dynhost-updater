@@ -4,7 +4,7 @@ try:
     import requests
     import toml
 except:
-    print("Install: pip3 install sys ovh requests toml")
+    print("Install: pip3 install ovh requests toml")
 
 
 class OvhDynHostUpdater:
